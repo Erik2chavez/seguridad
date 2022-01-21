@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672932813669",
+    "firebase_url": "https://estadia-4573f.firebaseio.com",
+    "project_id": "estadia-4573f",
+    "storage_bucket": "estadia-4573f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672932813669:android:2b9b7118488ce6576e5f8c",
+        "android_client_info": {
+          "package_name": "com.example.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672932813669-4a2coqseqd8m450pifueo32vm2nlocq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGb962awL6XyEZ-ZpOxpmN9qOVMveXf24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672932813669-4a2coqseqd8m450pifueo32vm2nlocq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
